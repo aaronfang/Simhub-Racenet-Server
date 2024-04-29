@@ -3,6 +3,8 @@ Get EA WRC 23 Learderboard and Club data from Racenet.com. Then show in-game wit
 
 > This tool is still in the early stages of development, so be ready for all kinds of issues to pop up. If you have any questions or suggestions, feel free to bring them up in the issue section.  
 
+[![Demo Video](http://img.youtube.com/vi/A2UUrV8X7UI/0.jpg)](http://www.youtube.com/watch?v=A2UUrV8X7UI "Demo Video")
+
 ### How to use:
 1. Get your refresh token from racenet.com  
     a. open racenet.com in browser  
