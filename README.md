@@ -1,7 +1,7 @@
 # Simhub-Racenet-Server
 Get EA WRC 23 Learderboard and Club data from Racenet.com. Then show in-game with SimHub Overlay.
 
-> 这个工具目前还处于非常早期的开发阶段，准备好出现各种各样的问题。如果你有任何问题或建议，请在这个项目的issue中提出。  
+> This tool is still in the early stages of development, so be ready for all kinds of issues to pop up. If you have any questions or suggestions, feel free to bring them up in the issue section.  
 
 ### How to use:
 1. Get your refresh token from racenet.com  
