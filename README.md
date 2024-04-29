@@ -31,4 +31,5 @@ Get EA WRC 23 Learderboard and Club data from Racenet.com. Then show in-game wit
 ### Next Steps:
 - [ ] Add GUI for the server to handle login and club selection
 - [ ] Add support to login with username and password
+- [ ] Add support for more telemetry data on racenet, such as delta time / split time for other players, etc
 - [ ] Code as SimHub plugin
