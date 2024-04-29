@@ -24,6 +24,10 @@ Get EA WRC 23 Learderboard and Club data from Racenet.com. Then show in-game wit
     c. save and close the editor.
 <img src="images/dashboard_variables.png" width="60%" height="60%"> 
 
+5. Add overlay to screen, set hotkey:
+    a. `Show next dash screen` to switch between Time trial and Club leaderboard.
+    b. `Trigger dash action A` to switch between compact and full leaderboard.
+
 ### Next Steps:
 - [ ] Add GUI for the server to handle login and club selection
 - [ ] Add support to login with username and password
