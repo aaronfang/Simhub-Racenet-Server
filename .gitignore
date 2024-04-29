@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# User-specific files
+refresh_token.txt
+# ignore all the racenet*.json, except racenet_carClasses.json
+racenet_club_list_data.json
+racenet_time_trial_pre_info.json
+racenet_personal_info.json
+racenet_time_trial_dry.json
+racenet_time_trial_wet.json
+racenet_club.json

@@ -1,0 +1,176 @@
+{
+  "vehicleClasses": {
+      "1": {
+          "class": "H1 (FWD)",
+          "cars": {
+              "82": "Cooper S",
+              "81": "Fulvia HF",
+              "78": "Nova Sport"
+          }
+      },
+      "2": {
+          "class": "H2 (FWD)",
+          "cars": {
+              "79": "Golf GTI",
+              "77": "309 GTI",
+              "76": "205 GTI"
+          }
+      },
+      "3": {
+          "class": "H2 (RWD)",
+          "cars": {
+              "71": "131 Abarth Rally",
+              "70": "Escort MK2",
+              "74": "Sunbeam Lotus",
+              "73": "Kadett C GT/E",
+              "67": "Avenger",
+              "75": "A110 1600 S"
+              
+          }
+      },
+      "4": {
+          "class": "H3 (RWD)",
+          "cars": {
+              "65": "Sierra Cosworth RS500",
+              "64": "Stratos",
+              "94": "Escort MK2 McRae Motorsport",
+              "63": "M3 Evo Rally",
+              "69": "5 Turbo", 
+              "68": "Ascona 400"
+          }
+      },
+      "5": {
+          "class": "Group B (RWD)",
+          "cars": {
+              "59": "911 SC RS",
+              "58": "Manta 400",
+              "57": "037 Evo 2",
+              "55": "M1 Procar Rally"
+          }
+      },
+      "6": {
+          "class": "Group B (4WD)",
+          "cars": {
+              "54": "205 T16 Evo 2",
+              "53": "Metro 6R4",
+              "52": "Delta S4",
+              "51": "RS200",
+              "50": "Sport quattro S1 (E2)"
+          }
+      },
+      "7": {
+          "class": "NR4/R4",
+          "cars": {
+              "62": "McRae R4",
+              "61": "WRX STI NR4",
+              "60": "Lancer Evolution X"
+          }
+      },
+      "8": {
+          "class": "Rally4",
+          "cars": {
+              "7": "208 Rally4",
+              "45": "Fiesta MK8 Rally4",
+              "46": "Adam R2",
+              "48": "Twingo II"
+          }
+      },
+      "9": {
+          "class": "S1600",
+          "cars": {
+              "41": "Saxo Super 1600",
+              "42": "Clio S1600",
+              "43": "Puma S1600",
+              "44": "C2 Super 1600"
+          }
+      },
+      "10": {
+          "class": "S2000",
+          "cars": {
+              "35": "Grande Punto Abarth S2000",
+              "36": "207 S2000",
+              "87": "Corsa S2000"
+          }
+      },
+      "11": {
+          "class": "F2 Kit Car",
+          "cars": {
+              "29": "306 Maxi",
+              "30": "Golf IV Kit Car",
+              "31": "Ibiza Kit Car",
+              "32": "Astra Rally Car",
+              "33": "Escort Mk 6 Maxi",
+              "34": "Maxi Mégane"
+          }
+      },
+      "12": {
+          "class": "Group A",
+          "cars": {
+              "22": "Escort RS Cosworth",
+              "23": "Delta HF Integrale",
+              "83": "Galant VR4",
+              "89": "Impreza 1995",
+              "26": "Legacy RS"
+          }
+      },
+      "13": {
+        "class": "World Rally Car 1997 - 2011",
+        "cars": {
+          "12": "C4 WRC",
+          "13": "Xsara WRC",
+          "14": "Focus RS Rally 2001",
+          "15": "Focus RS Rally 2008",
+          "16": "206 Rally",
+          "17": "Fabia WRC",
+          "18": "Impreza 2001",
+          "19": "Impreza 1998",
+          "20": "Impreza 2008",
+          "21": "Córdoba WRC", 
+          "24": "Lancer Evolution VI",
+          "86": "Countryman Rally Edition"
+        }
+      },
+      "14": {
+        "class": "Rally2",
+        "cars": {
+          "85": "208 T16 R5",
+          "112": "Fiesta R5 MK7 Evo 2", 
+          "116": "Polo GTI R5",
+          "117": "Fabia Rally2 Evo",
+          "119": "Fabia RS Rally2"
+        }
+      },
+      "17": {
+        "class": "World Rally Car 2017 - 2021",
+        "cars": {
+          "95": "Polo 2017",
+          "118": "Fiesta WRC"
+        }
+      },
+      "19": {
+        "class": "WRC",
+        "cars": {
+          "103": "Puma Rally1 HYBRID",
+          "104": "i20 N Rally1 HYBRID",
+          "105": "GR Yaris Rally1 HYBRID"
+        }
+      },
+      "20": {
+        "class": "JWRC",
+        "cars": {
+          "106": "Fiesta Rally3"
+        }
+      },
+      "21": {
+        "class": "WRC2",
+        "cars": {
+          "4": "C3 Rally2",
+          "5": "Fiesta Rally2",
+          "8": "Fabia Rally2 Evo", 
+          "9": "Polo GTI R5", 
+          "99": "i20 N Rally2",
+          "107": "Fabia RS Rally2"
+        }
+      }
+    }
+  }
